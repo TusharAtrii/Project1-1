@@ -555,7 +555,7 @@ export default function AddHotelAftrLgn() {
           </CardContent>
         </Card>
       </Box>
-      <Box sx={{ mt: { sm: 30, md: 25, lg: 20 } }}>
+      <Box sx={{ mt: { sm: 30, md: 25, lg: 40 } }}>
         <Footer />
       </Box>
     </Box>
